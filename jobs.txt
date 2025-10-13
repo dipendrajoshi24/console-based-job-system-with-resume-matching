@@ -1,0 +1,4 @@
+4|sales|salesforce|role is sales|product knowledge,excel|ug|6
+3|full stack dev|meta|role full stack sev|html,css,js,sql,aws,cloud|ug|5
+2|back end dev|flipkart|role back end devloper|mongodb,sql,ptyhon,cloud|ug|3
+1|front end dev|amzon|role front end dev|html,css,js,uiux,|ug|2

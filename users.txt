@@ -1,0 +1,3 @@
+ibrahim|ibu@gmail.com|ibu1|456987536|excel,communication|ug|ibu.pdf|user
+dev|dipendra@gmail.com|dip1|7856364512|html,css,js|ug|dipendra.pdf|user
+dipendra|admin@system.com|dev12|8383822438|html,css,js,sql,uiux|ug|dev.pdf|admin
