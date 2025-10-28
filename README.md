@@ -65,7 +65,7 @@ Improve search and filtering
 
  Author
 Dipendra Joshi
-BCA Student 
+
 
 License
 Licensed under the MIT License — free to use, modify, and share.
