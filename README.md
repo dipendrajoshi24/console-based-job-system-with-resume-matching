@@ -38,7 +38,7 @@ Run the executable:
 
 ## 🗂️ Project Structure
 
-1. main.c # Entry point; controls main flow
+1. main.c Entry point; controls main flow
 2. user.c / user.h # Handles registration, login, user validation
 3. job.c /job.h # Manages job creation,listing,and deletion
 4. application.c / application.h # Handles job applications and matching
