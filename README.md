@@ -38,20 +38,18 @@ Run the executable:
 
 ## 🗂️ Project Structure
 
-│
-├── main.c # Entry point; controls main flow
-├── user.c / user.h # Handles registration, login, user validation
-├── job.c / job.h # Manages job creation, listing, and deletion
-├── application.c / application.h # Handles job applications and matching
-├── data.c / data.h # File storage and data persistence
-├── utils.c / utils.h # Helper and string processing functions
-│
-├── users.txt # Stores user data
-├── jobs.txt # Stores job listings
-├── applications.csv # Stores job applications
-│
-├── Makefile # Compiles all modules easily
-└── README.md # Project documentation
+1. main.c # Entry point; controls main flow
+2. user.c / user.h # Handles registration, login, user validation
+3. job.c /job.h # Manages job creation,listing,and deletion
+4. application.c / application.h # Handles job applications and matching
+5. data.c / data.h # File storage and data persistence
+6. utils.c / utils.h # Helper and string processing functions
+7.users.txt # Stores user data
+8. jobs.txt # Stores job listings
+9. applications.csv # Stores job applications
+10. Makefile # Compiles all modules easily
+11. README.md # Project documentation
+
  ## Future Improvements
 Enhance matching logic with weighted keywords
 
