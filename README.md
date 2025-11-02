@@ -43,7 +43,7 @@ Run the executable:
 3. job.c /job.h Manages job creation,listing,and deletion
 4. application.c / application.h Handles job applications and matching
 5. data.c / data.h  File storage and data persistence
-6. utils.c / utils.h Helper and string processing functions
+6. utils.c / utils.h Helper and string processing functions.
 7.users.txt Stores user data
 8. jobs.txt Stores job listings
 9. applications.csv Stores job applications
