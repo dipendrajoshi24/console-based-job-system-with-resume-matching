@@ -59,7 +59,7 @@ Improve search and filtering
 ## Author
 Dipendra Joshi
 
-# License
+## License
 Licensed under the MIT License — free to use, modify, and share.
 
 
