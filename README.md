@@ -57,7 +57,7 @@ Add GUI (maybe with C++ or Python frontend)
 
 Improve search and filtering
 
-## Author
+# Author
 Dipendra Joshi
 
 ## License
