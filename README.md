@@ -32,7 +32,7 @@ Run the executable:
 (On Windows: jobfinder.exe)
 
 
-## 🗂️ Project Structure
+## Project Structure
 1. main.c Entry point; controls main flow
 2. user.c / user.h Handles registration, login, user validation
 3. job.c /job.h Manages job creation,listing,and deletion
