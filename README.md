@@ -7,7 +7,7 @@ This project was built as part of my **BCA journey**, focusing on file handling,
 2. Separate roles for users and admin  
 3. Job posting and management  
 4. Resume submission and keyword-based job matching  
-5. Persistent data storage using`.txt` and `.csv` files  
+5. Persistent data storage using`.txt` and `csv` files  
 6. Modular C code structure for clarity and scalability  
 
 
