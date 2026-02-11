@@ -1,5 +1,4 @@
 ## Console-Based Job System with Resume Matching  
-
 A simple yet functional **console project built in C**, designed to simulate how a real-world job portal (like LinkedIn or Naukri) might work — but entirely text-based.  
 This project was built as part of my **BCA journey**, focusing on file handling, modular programming, and basic keyword-based resume matching.
 
