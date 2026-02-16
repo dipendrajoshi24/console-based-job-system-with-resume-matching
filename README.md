@@ -10,7 +10,6 @@ This project was built as part of my **BCA journey**, focusing on file handling,
 5. Persistent data storage using`.txt` and `csv` files  
 6. Modular C code structure for clarity and scalability  
 
-
 ##  Project Idea  
 I wanted to create something practical and realistic using **core C concepts** — something that handles users, files, and data like a small database.  
 So this project became a mini **job portal system** that runs in the console.  
