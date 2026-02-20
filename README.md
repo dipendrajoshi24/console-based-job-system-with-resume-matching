@@ -15,7 +15,7 @@ I wanted to create something practical and realistic using **core C concepts** â
 So this project became a mini **job portal system** that runs in the console.  
 It helped me understand how **file systems** can act like databases and how **modules** make large codebases manageable.  
 
-##  How to Run  
+## How to Run  
 1. Clone this repository:  
    bash
    git clone https://github.com/dipendrajoshi24/console-based-job-system-with-resume-matching.git
