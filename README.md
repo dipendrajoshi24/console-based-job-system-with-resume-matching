@@ -13,6 +13,7 @@ This project was built as part of my **BCA journey**, focusing on file handling,
 6. Modular C code structure for clarity and scalability  
 
 ## Project Idea  
+
 I wanted to create something practical and realistic using **core C concepts** — something that handles users, files, and data like a small database.  
 So this project became a mini **job portal system** that runs in the console.  
 It helped me understand how **file systems** can act like databases and how **modules** make large codebases manageable.  
