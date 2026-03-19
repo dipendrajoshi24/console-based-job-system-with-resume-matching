@@ -62,9 +62,11 @@ Add GUI (maybe with C++ or Python frontend)
 Improve search and filtering
 
 ## Author
+
 Dipendra Joshi
 
 # License
+
 Licensed under the MIT License — free to use, modify, and share.
 
 
