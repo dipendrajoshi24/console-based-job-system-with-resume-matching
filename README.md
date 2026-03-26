@@ -1,9 +1,9 @@
-## Console-Based Job System with Resume Matching
+# Console-Based Job System with Resume Matching
   
 A simple yet functional **console project built in C**, designed to simulate how a real-world job portal (like LinkedIn or Naukri) might work — but entirely text-based.  
 This project was built as part of my **BCA journey**, focusing on file handling, modular programming, and basic keyword-based resume matching.
 
-## Features
+# Features
   
 1. User registration and login system  
 2. Separate roles for users and admin  
@@ -12,13 +12,13 @@ This project was built as part of my **BCA journey**, focusing on file handling,
 5. Persistent data storage using`.txt` and `csv` files  
 6. Modular C code structure for clarity and scalability  
 
-## Project Idea  
+# Project Idea  
 
 I wanted to create something practical and realistic using **core C concepts** — something that handles users, files, and data like a small database.  
 So this project became a mini **job portal system** that runs in the console.  
 It helped me understand how **file systems** can act like databases and how **modules** make large codebases manageable.  
 
-## How to Run  
+# How to Run  
 
 1. Clone this repository:  
    bash
@@ -34,7 +34,7 @@ Run the executable:
 ./jobfinder
 (On Windows: jobfinder.exe)
 
-## Project Structure
+# Project Structure
 
 1. main.c Entry point; controls main flow
 2. user.c / user.h Handles registration, login, user validation
@@ -49,7 +49,7 @@ Run the executable:
 11. README.md Project documentation
 
  
-## Future Improvements
+# Future Improvements
 
 Enhance matching logic with weighted keywords
 
@@ -61,7 +61,7 @@ Add GUI (maybe with C++ or Python frontend)
 
 Improve search and filtering
 
-## Author
+# Author
 
 Dipendra Joshi
 
